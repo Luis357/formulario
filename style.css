@@ -1,0 +1,14 @@
+h1 {
+  color: blue;
+  text-align: center;
+  border: solid 3px yellow;
+  padding: 20px;
+  margin: 20px;
+}
+header {
+  background-color: brown;
+  height: 200px;
+}
+* {
+  margin: 0ch;
+}
